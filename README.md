@@ -1,4 +1,4 @@
-# Module 13 | MVC | E-Commerce Back End
+# Module 13 | ORM | E-Commerce Back End
 
 ## Finished Product
 
@@ -7,7 +7,7 @@ DESCRIPTION
 This program handles the database for E-Commerse allowing the user to make Get, Put, Post, and Delete requests.
 
 This project was developed using the following skills: 
-JS, NodeJS, MVC, SQL, Sequelize, Insomnia, REST APIs
+JS, NodeJS, ORM, SQL, Sequelize, Insomnia, REST APIs
 
 All code is neatly commented for clarity's sake.
 
